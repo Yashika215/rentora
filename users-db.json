@@ -1,0 +1,55 @@
+[
+  {
+    "id": "usr-aditi-01",
+    "fullName": "Aditi Verma",
+    "email": "aditi.verma@gmail.com",
+    "phone": "+91 98765 43210",
+    "passwordHash": "a88afb9c7df5e6a62ff90bfbfca4a0bd5cada0bca81c77061b566b3e97e3ca310efaf7da19e6e2b407509d88928a9e2a53e1d23bc1931433636038f2983fcda8",
+    "salt": "32105ffb8ddda62c3323c0721b099019",
+    "memberTier": "Gold VIP Renter",
+    "savedAddress": {
+      "address": "Flat 402, Royal Orchid Enclave, Bodakdev",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "380054"
+    },
+    "preferredLocation": {
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "isServiceable": true
+    },
+    "preferredAesthetics": [
+      "coquette",
+      "desi-glam"
+    ],
+    "joinedDate": "Oct 2026",
+    "rentalCredits": 500,
+    "measurements": {
+      "bust": "34 Inches (Size S/M)",
+      "waist": "28 Inches",
+      "hips": "38 Inches",
+      "height": "5' 6\" (+3\" Heel)"
+    }
+  },
+  {
+    "id": "usr-1792994263320-886",
+    "fullName": "Priya Shah",
+    "email": "priya.shah@gmail.com",
+    "passwordHash": "f52d7cc84fc3c3da3498a048022ab27cc38005039b4d87cef8a3cdd3d09843ba857b32b6ea7cfd7af7e0338341f59948c7f2baf23ba4b77b295f977510c01442",
+    "salt": "265921224a0976cf635b31585699eca7",
+    "memberTier": "Member",
+    "preferredLocation": {
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "isServiceable": true
+    },
+    "preferredAesthetics": [
+      "coquette",
+      "desi-glam"
+    ],
+    "joinedDate": "Oct 2026",
+    "rentalCredits": 200
+  }
+]

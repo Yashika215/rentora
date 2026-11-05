@@ -1,0 +1,8 @@
+{
+  "name": "RENTORA — Rent • Wear • Repeat",
+  "description": "Premium aesthetic Gen-Z fashion rental platform featuring curated ethnic and western collections, occasions, accessories, and RÉNÉ, your AI style bestie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  // ==================== FOR HER ====================
+  { id: 'her-gown-evening', name: 'Designer Evening Gown', brand: 'RENTORA', category: 'her', subCategory: 'Dresses', pricePerDay: 400, rentalPrice4Days: 1400, retailPrice: 30000, deposit: 1000, images: ['https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=80'], sizes: ['S', 'M', 'L'], colors: [{name: 'Red', hex: '#FF0000'}], aesthetic: ['diva'], occasions: ['formal-galas'], description: 'Elegant evening gown.', fabric: 'Satin', fit: 'Fitted', care: 'Dry clean', rating: 4.8, reviewsCount: 10 },
+  { id: 'her-lehenga-bridal', name: 'Bridal Lehenga', brand: 'RENTORA', category: 'her', subCategory: 'Ethnic', pricePerDay: 600, rentalPrice4Days: 2000, retailPrice: 50000, deposit: 1500, images: ['https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80'], sizes: ['S', 'M'], colors: [{name: 'Gold', hex: '#FFD700'}], aesthetic: ['desi-glam'], occasions: ['weddings-guest'], description: 'Bridal lehenga.', fabric: 'Silk', fit: 'Flare', care: 'Dry clean', rating: 4.9, reviewsCount: 15 },
+  // ... (need 14 more HER items)
+  
+  // ==================== FOR HIM ====================
+  { id: 'him-tuxedo-classic', name: 'Classic Black Tuxedo', brand: 'RENTORA', category: 'him', subCategory: 'Suits', pricePerDay: 500, rentalPrice4Days: 1800, retailPrice: 40000, deposit: 1200, images: ['https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80'], sizes: ['M', 'L', 'XL'], colors: [{name: 'Black', hex: '#000000'}], aesthetic: ['old-money'], occasions: ['formal-galas'], description: 'Classic tuxedo.', fabric: 'Wool', fit: 'Slim', care: 'Dry clean', rating: 4.9, reviewsCount: 12 },
+  // ... (need 15 more HIM items)
+]
