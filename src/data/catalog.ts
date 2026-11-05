@@ -62,8 +62,8 @@ export const AESTHETICS: Aesthetic[] = [
 ];
 
 export const OCCASIONS: Occasion[] = [
-  { id: 'navratri-garba', name: 'Navratri & Garba Nights', tagline: 'Whirl in heavy mirrorwork flared ghagras & embroidered kedyus', image: '/src/assets/images/festive_lehenga_garba_1792952794231.jpg', category: 'festive' },
-  { id: 'weddings-guest', name: 'Weddings & Reception', tagline: 'Turn heads without upstaging the bride; regal silhouettes', image: '/src/assets/images/hero_fashion_editorial_1792952792888.jpg', category: 'wedding' },
+  { id: 'navratri-garba', name: 'Navratri & Garba Nights', tagline: 'Whirl in heavy mirrorwork flared ghagras & embroidered kedyus', image: '/assets/aistudio/festive_lehenga_garba_1792952794231.jpg', category: 'festive' },
+  { id: 'weddings-guest', name: 'Weddings & Reception', tagline: 'Turn heads without upstaging the bride; regal silhouettes', image: '/assets/aistudio/hero_fashion_editorial_1792952792888.jpg', category: 'wedding' },
   { id: 'engagements', name: 'Engagements & Cocktail', tagline: 'Champagne silk gowns, embellished bandhgalas & sleek coordinates', image: 'https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=800&q=80', category: 'wedding' },
   { id: 'festivals-diwali', name: 'Diwali & Festive Feasts', tagline: 'Zari-bordered anarkalis, raw silk kurtas and festive sparkle', image: '/assets/aistudio/download__38__b5ed67d1.jpg', category: 'festive' },
   { id: 'eid-celebrations', name: 'Eid Celebrations', tagline: 'Graceful pastel shararas, chikankari kurtas and rich velvet stoles', image: 'https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?auto=format&fit=crop&w=800&q=80', category: 'festive' },
@@ -155,7 +155,7 @@ export const PRODUCTS: Product[] = [
     rentalPrice4Days: 1249,
     retailPrice: 22000,
     deposit: 700,
-    images: ['/src/assets/images/mens_rose_kurta_1792980985890.jpg'],
+    images: ['/assets/aistudio/mens_rose_kurta_1792980985890.jpg'],
     sizes: APPAREL_SIZES_HIM,
     colors: [
       { name: 'Dusty Rose & Ivory', hex: '#C8A49F' },
@@ -396,7 +396,7 @@ export const PRODUCTS: Product[] = [
     rentalPrice4Days: 399,
     retailPrice: 8500,
     deposit: 300,
-    images: ['/src/assets/images/coquette_accessories_gift_1792952794547.jpg'],
+    images: ['/assets/aistudio/coquette_accessories_gift_1792952794547.jpg'],
     sizes: ['One Size (Adjustable extender chain)'],
     colors: [
       { name: 'Warm Ivory & Gold', hex: '#EEE4DA' }
@@ -1153,7 +1153,7 @@ export const PRODUCTS: Product[] = [
     rentalPrice4Days: 1399,
     retailPrice: 28000,
     deposit: 750,
-    images: ['/src/assets/images/hero_fashion_editorial_1792952792888.jpg'],
+    images: ['/assets/aistudio/hero_fashion_editorial_1792952792888.jpg'],
     sizes: ['XS', 'S', 'M', 'L', 'XL'],
     colors: [{ name: 'Sovereign Plum', hex: '#4D0E13' }],
     aesthetic: ['old-money', 'diva', 'quiet-luxury'],
@@ -1172,7 +1172,7 @@ export const FREE_GIFT_PROMOTION = {
   thresholdAmount: 3000,
   giftName: 'Signature RENTORA Crystal & Pearl Bow Jewelry Gift Set 🎀',
   giftValue: 1299,
-  giftImage: '/src/assets/images/coquette_accessories_gift_1792952794547.jpg',
+  giftImage: '/assets/aistudio/coquette_accessories_gift_1792952794547.jpg',
   description: 'Complimentary high-aesthetic jewelry keepsake box with pearl earrings & silk bow pouch, automatically included for rental totals above ₹3,000.',
   terms: 'Valid on net merchandise rental subtotal before refundable deposits and delivery fees. Keepsake is yours to keep forever!'
 };
@@ -1202,7 +1202,7 @@ export const EDITORIAL_ARTICLES = [
     category: 'Aesthetic Deep Dive',
     readTime: '5 min read',
     excerpt: 'RÉNÉ breaks down the subtle art of pairing structured double-breasted blazers with romantic pearl chokers and velvet ribbons.',
-    image: '/src/assets/images/coquette_accessories_gift_1792952794547.jpg',
+    image: '/assets/aistudio/coquette_accessories_gift_1792952794547.jpg',
     tag: 'RÉNÉ Recommends'
   },
   {
